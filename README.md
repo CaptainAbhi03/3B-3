@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculatePercentageAndGrade {
+public class StudentGrade {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
